@@ -1,4 +1,4 @@
-#include "../embedded/embedded.h"
+#include "embedded/embedded.h"
 #include <iostream>
 
 auto main(int argc, char** argv) -> int
